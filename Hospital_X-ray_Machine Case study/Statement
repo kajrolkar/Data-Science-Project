@@ -18,3 +18,23 @@ Solution Starergey:
         
         - So time taken to fix the machine :10-18 days.
         - Total revenue lost:50 doller to 100K.
+        
+ Step 2: convert business problem to data science problem.
+        - Here which step do you think will be suitable for optimaizing using machine learning algorithm.
+        -- We observed that the 3rd step,the online expert takes around 4-8 days to idnetify the root cause of the problem and recommend certain possible solution .
+        -- Here ,the expert looksat the machine logs and the doctor description and along with their technical knowledge give the neccesary recommendation as to which parts might be faulty,
+        -- And nned to be replaced .
+        -- Machine learning solution would be most suitable for optimise this stepwhere a model can be build on past issue datat to give reccomendations automatically.
+        
+ Step 3:Identifying model.
+        - ``As we know problem where a model would be handling out recommendation on the possibly faulty parts based on the machine data and the doctor's description and therfor help the online export in saving a tremendous amount of time.``
+        - As per our data contain categorical data so we categorical approach classification model .
+        - In our data contain all history for reason for faulty,how to be tackeld ,and which part may going faulty from all the part of x-ray machine .
+        - so we check which part is mostly get faulty so we can comapre current situation.
+        - Another soLn: Since you're trying to predict the class of the faulty product on the basis of the machine data and the doctor's description.It would be similar to identifying whether ,
+                - a customer will churn or not.Only in this case ,instead of a Yes/No question i.e. a binary classsification,
+                - we are going to use the multi-class classification approach to accommodated for the seversl classes of faulty products that might be possible here.
+        
+ Step 4:
+ 
+        
