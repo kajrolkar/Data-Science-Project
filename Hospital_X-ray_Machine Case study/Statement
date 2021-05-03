@@ -1,0 +1,20 @@
+Buisness Problem : The Main Challenge the major hospital face is that if X-ray machine go down,they would have to compromise with their service and which lead to loss of revenue and patient for them,
+        Our Main task,is to make sure that if an X-ray machine goes down,we're able to get it back up as quikely as possible.
+        
+Solution Starergey:
+ 1. Buisness problem indentification and solution
+ 2. formulate buiness problem to datat science problem
+ 3. understanding tool which understand data like pre-processing,cleaning,
+ 4. How to model data to predict issue such complex machine like x-ray
+ 5. how the modele is good by model evalution.
+ 
+ 
+ Step 1: Buisness problem identification:
+        - here a x-ray machine handler or doctor found issue with it like malfunction or it get heated or beeping sound etc.
+        - so when a any x-ray machine failed then hospital called to manufacture or expert support to identify root cause of issue (Online expert support)
+        - Then to identify root cause(Trobleshoot tools) it may take 4-8 days with 5000 doller loss/day.
+        - when he found issue then he also required exchange part to replace so he order them ,so also required 3-5 days with 400 doller /visit.
+        - Then to install it and fixed x-ray machine required 3-5 days required 400 doller/visit
+        
+        - So time taken to fix the machine :10-18 days.
+        - Total revenue lost:50 doller to 100K.
