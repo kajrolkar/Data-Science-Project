@@ -1,1 +1,0 @@
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fcloud%2Bsaas&psig=AOvVaw3a_SDcwDZk01lgD1GgLxJV&ust=1620221363943000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPif7YmRsPACFQAAAAAdAAAAABAD"></img>
